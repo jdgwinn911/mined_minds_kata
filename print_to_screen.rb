@@ -17,9 +17,12 @@
 num = 1
 
 100.times do
-    if num == 3
-        puts "mind"
-    else 
+    if num %3 == 0
+        puts "mined"
+    elsif
+        num == 5
+        puts "minds"
+    else
         puts num
     end
 num = num + 1
