@@ -1,1 +1,3 @@
-counts to 100 and then based off of 3,5,and 15 being evenly dividends it will say mined minds
+counts to 100 replacing any number divisible by 3 with mined 
+any number divisible by 5 with minds
+and any  number divisible by both with mined minds
