@@ -25,8 +25,8 @@ num = 1 # giving value to a local variable
         puts "minds"
     else # else puts num
         puts num
-    end # the opposite of beginning 
+    end 
 num += 1
-end # end 
+end  
 
 
